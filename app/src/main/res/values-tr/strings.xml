@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">covid_19</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Veriler https://www.worldometers.info/coronavirus/ sitesi ile senkronizedir.</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Ayarlar</string>
+
+    <string name="menu_home">Veriler</string>
+    <string name="menu_favories">Favoriler</string>
+    <string name="menu_settings">Ayarlar</string>
+
+    <string name="home_second">Home Second</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="city_name">Ülke İsmi</string>
+    <string name="total">Toplam</string>
+    <string name="case_case">Vaka</string>
+    <string name="death">Ölüm</string>
+
+
+
+</resources>
