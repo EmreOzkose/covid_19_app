@@ -1,4 +1,4 @@
-# covid_19_app
+# COVID19 Android Application
 Importing data from world statistics web and showing in an app
 
 # Screenshots
